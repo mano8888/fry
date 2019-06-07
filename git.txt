@@ -2,6 +2,9 @@ mon
 tue
 wed
 thur
+all weeks
+represented here
 fri
 sat
 sun
+these 
