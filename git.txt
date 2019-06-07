@@ -2,7 +2,15 @@ mon
 tue
 wed
 thur
+all weeks
+represented here
+i want to merge these manuz to master
+again
 fri
 sat
 sun
+
+these 
+
 reloa
+
