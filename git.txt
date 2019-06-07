@@ -22,7 +22,11 @@ these
  resolved
 
 reloded
+
 added some new 
 and new copy file
 
+
+
+fina copy
 
