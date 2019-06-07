@@ -8,6 +8,4 @@ sun
 
 final copy
 
-all weeks
-
 
