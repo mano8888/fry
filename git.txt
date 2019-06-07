@@ -6,6 +6,7 @@ all weeks
 represented here
 i want to merge these manuz to master
 now i want to merge these mano tooo master
+gone
 fri
 sat
 sun
