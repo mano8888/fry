@@ -6,3 +6,13 @@ sdfl,s
 sdf;slf,
 sdfl,sdg
 lsfg
+
+red
+green
+yellow
+purple
+all colors
+blue
+orange
+white
+
