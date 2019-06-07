@@ -3,6 +3,7 @@ red
 green
 yellow
 purple
+all colors
 blue
 orange
 white
